@@ -1,0 +1,4 @@
+git add hello.txt   暂时添加到管理系统
+git add .           暂时添加全部文件到管理系统
+git commit          提交保存记录
+
