@@ -3,7 +3,7 @@ git add .           暂时添加全部文件到管理系统
 git commit          提交保存记录
 git commit -m 'xxx'
 git log             查看提交记录
-
+git reset --hard xxxx   撤销提交
 
 
 
